@@ -7,11 +7,27 @@ This project analyzes **gold and diamond markets** using historical data, Python
 
 ## 🛠️ Tools & Skills Used  
 
-- **Python (Pandas, NumPy, Matplotlib, Seaborn)** – Data wrangling, time-series analysis, visualization  
-- **Exploratory Data Analysis (EDA)** – Outlier handling, moving averages, rolling volatility  
-- **Jupyter Notebook** – Interactive analysis, reproducible workflow  
-- **Financial Analysis** – Crisis comparisons, safe-haven assessment, seasonal demand evaluation  
-- **Data Storytelling** – Translating raw numbers into market insights  
+- **Python (Pandas & NumPy)**  
+  Used extensively for data wrangling, time-series transformations, calculating moving averages, rolling volatility, and aggregating returns across different periods.  
+
+- **Matplotlib**  
+  Created custom visualizations, trend lines, seasonal plots, and volatility charts to make the insights more interpretable.  
+
+- **Exploratory Data Analysis (EDA)**  
+  Included outlier detection, missing value checks, moving average smoothing, and seasonal pattern exploration to uncover hidden behaviors.  
+
+- **Financial & Market Analysis**  
+  Focused on gold’s role as a safe-haven asset vs. diamonds as consumer-driven commodities, with emphasis on crisis comparisons, volatility tracking, and floor-building behavior.  
+
+- **Operating System (OS) Module**  
+  Managed dataset imports, file handling, and ensured clean project structuring for reproducibility.  
+
+- **Jupyter Notebook**  
+  Served as the main environment for iterative analysis, combining code, visuals, and insights into a cohesive narrative.  
+
+- **Data Storytelling**  
+  Translated raw numbers into insights that align with real-world market behavior, cultural demand cycles, and crisis-period decision-making.  
+
 
 ---
 
