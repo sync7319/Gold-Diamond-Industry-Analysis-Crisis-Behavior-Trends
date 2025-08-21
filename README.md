@@ -56,12 +56,12 @@ This project analyzes **gold and diamond markets** using historical data, Python
 </p>
 
 <p align="center">
-  <img src="LINK2" width="350" alt="Gold Price & Volatility"/>
+  <img src="LINK2" width="350" alt="Gold Price Over Time"/>
   <img src="LINK3" width="350" alt="Gold Monthly Returns"/>
 </p>
 
 <p align="center">
-  <img src="LINK4" width="350" alt="Gold Rolling Volatility"/>
+  <img src="LINK4" width="350" alt="Gold Volatility"/>
   <img src="LINK5" width="350" alt="Gold Seasonality"/>
 </p>
 
@@ -70,15 +70,16 @@ This project analyzes **gold and diamond markets** using historical data, Python
 ### Diamond Market  
 <p align="center">
   <img src="LINK6" width="350" alt="Diamond Price Distribution"/>
-  <img src="LINK7" width="350" alt="Diamond Scatterplot"/>
+  <img src="LINK7" width="350" alt="Diamond Scatterplot (Carat vs Price)"/>
 </p>
 
 <p align="center">
-  <img src="LINK8" width="350" alt="Diamond Boxplots"/>
+  <img src="LINK8" width="350" alt="Diamond Boxplots by Cut"/>
   <img src="LINK9" width="350" alt="Diamond Correlation Heatmap"/>
 </p>
 
 ---
+
 
 ## 📚 What I Learned  
 
