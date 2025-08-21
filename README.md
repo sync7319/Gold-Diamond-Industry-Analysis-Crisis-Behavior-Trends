@@ -1,7 +1,7 @@
-# Gold & Diamond Market Analysis — Crisis Behavior & Trends  
+# 💎 Gold & Diamond Data Analysis — Crisis Behavior & Trends  
 
 ## 🚀 Overview  
-This project analyzes **gold and diamond markets** using historical data, Python, and visualization. The focus is on how gold behaves as a **safe-haven asset during crises** and how diamonds compare in terms of pricing dynamics, volatility, and seasonality. By examining **major economic downturns (2001–2003, 2008–2011, 2020–2021)** and market cycles, the analysis reveals both expected patterns (gold’s resilience) and surprising insights (diamonds’ more muted, consumer-driven trends).  
+This project analyzes **gold and diamond markets** using historical data, Python, and visualization. The focus is on how gold behaves as a **safe-haven asset during crises** and how diamonds compare in terms of pricing dynamics, volatility, and seasonality. By examining **major economic downturns (2001–2003, 2008–2011, 2020–2021)** and market cycles, the analysis reveals both expected patterns (gold’s resilience) and surprising insights (diamonds’ muted, consumer-driven trends).  
 
 ---
 
@@ -9,6 +9,7 @@ This project analyzes **gold and diamond markets** using historical data, Python
 
 - **Python (Pandas, NumPy, Matplotlib, Seaborn)** – Data wrangling, time-series analysis, visualization  
 - **Exploratory Data Analysis (EDA)** – Outlier handling, moving averages, rolling volatility  
+- **Jupyter Notebook** – Interactive analysis, reproducible workflow  
 - **Financial Analysis** – Crisis comparisons, safe-haven assessment, seasonal demand evaluation  
 - **Data Storytelling** – Translating raw numbers into market insights  
 
@@ -33,10 +34,29 @@ This project analyzes **gold and diamond markets** using historical data, Python
 
 ## 📊 Analysis Snapshots  
 
-<!-- Replace with your uploaded GitHub asset links -->
+<!-- Wide "headline" chart -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52f8f1c1-ead1-490b-a27f-ed7ba434c380" width="90%" />
+</p>  
+
+<!-- Two wide comparison charts -->
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/your-gold-analysis.png" width="49%" />
-  <img src="https://github.com/user-attachments/assets/your-diamond-analysis.png" width="49%" />
+  <img src="https://github.com/user-attachments/assets/7f532374-d2c1-4561-85d1-bc2c8af24375" width="48%" />
+  <img src="https://github.com/user-attachments/assets/9a9fd921-2703-48de-8368-373d11d107ca" width="48%" />
+</p>  
+
+<!-- Grid of supporting visuals -->
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/f5cb8336-bd94-49f4-afd6-d3414acdb601" width="32%" />
+  <img src="https://github.com/user-attachments/assets/d34d0fdd-2fa8-404b-90c2-bb0d690b0a98" width="32%" />
+  <img src="https://github.com/user-attachments/assets/55edeb38-82b5-461c-a0ac-b2c3f8fe1402" width="32%" />
+</p>  
+
+<!-- Last row -->
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/8847baf4-34d0-4d80-a05a-cab660dd8492" width="32%" />
+  <img src="https://github.com/user-attachments/assets/8e6d38e5-9c36-4621-b451-dcc60c0d3782" width="32%" />
+  <img src="https://github.com/user-attachments/assets/6c16b34b-fe24-4c0d-8124-d6876e3f153d" width="32%" />
 </p>  
 
 ---
