@@ -1,4 +1,4 @@
-# 💎 Gold & Diamond Data Analysis — Crisis Behavior & Trends  
+# Gold Diamond Industry Analysis Crisis Behavior Trends
 
 ## 🚀 Overview  
 This project analyzes **gold and diamond markets** using historical data, Python, and visualization. The focus is on how gold behaves as a **safe-haven asset during crises** and how diamonds compare in terms of pricing dynamics, volatility, and seasonality. By examining **major economic downturns (2001–2003, 2008–2011, 2020–2021)** and market cycles, the analysis reveals both expected patterns (gold’s resilience) and surprising insights (diamonds’ muted, consumer-driven trends).  
