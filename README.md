@@ -50,35 +50,31 @@ This project analyzes **gold and diamond markets** using historical data, Python
 
 ## 📊 Analysis Snapshots  
 
-### Gold Market  
+<!-- Wide headline chart -->
 <p align="center">
-  <img src="LINK1" width="700" alt="Gold Price with Crisis Periods Highlighted"/>
-</p>
+  <img src="https://github.com/user-attachments/assets/52f8f1c1-ead1-490b-a27f-ed7ba434c380" width="90%" />
+</p>  
 
-<p align="center">
-  <img src="LINK2" width="350" alt="Gold Price Over Time"/>
-  <img src="LINK3" width="350" alt="Gold Monthly Returns"/>
-</p>
+<!-- Two comparison charts -->
+<p float="left" align="center">
+  <img src="https://github.com/user-attachments/assets/7f532374-d2c1-4561-85d1-bc2c8af24375" width="48%" />
+  <img src="https://github.com/user-attachments/assets/9a9fd921-2703-48de-8368-373d11d107ca" width="48%" />
+</p>  
 
-<p align="center">
-  <img src="LINK4" width="350" alt="Gold Volatility"/>
-  <img src="LINK5" width="350" alt="Gold Seasonality"/>
-</p>
+<!-- Supporting visuals (3 across) -->
+<p float="left" align="center">
+  <img src="https://github.com/user-attachments/assets/f5cb8336-bd94-49f4-afd6-d3414acdb601" width="32%" />
+  <img src="https://github.com/user-attachments/assets/d34d0fdd-2fa8-404b-90c2-bb0d690b0a98" width="32%" />
+  <img src="https://github.com/user-attachments/assets/55edeb38-82b5-461c-a0ac-b2c3f8fe1402" width="32%" />
+</p>  
 
----
+<!-- Final row (3 across) -->
+<p float="left" align="center">
+  <img src="https://github.com/user-attachments/assets/8847baf4-34d0-4d80-a05a-cab660dd8492" width="32%" />
+  <img src="https://github.com/user-attachments/assets/8e6d38e5-9c36-4621-b451-dcc60c0d3782" width="32%" />
+  <img src="https://github.com/user-attachments/assets/6c16b34b-fe24-4c0d-8124-d6876e3f153d" width="32%" />
+</p>  
 
-### Diamond Market  
-<p align="center">
-  <img src="LINK6" width="350" alt="Diamond Price Distribution"/>
-  <img src="LINK7" width="350" alt="Diamond Scatterplot (Carat vs Price)"/>
-</p>
-
-<p align="center">
-  <img src="LINK8" width="350" alt="Diamond Boxplots by Cut"/>
-  <img src="LINK9" width="350" alt="Diamond Correlation Heatmap"/>
-</p>
-
----
 
 
 ## 📚 What I Learned  
